@@ -3,8 +3,9 @@
 <p align="center">
   <img src="/client/src/assets/images/elitLogo.png" />
 </p>
+**connect.collaborate.create()**
+Elit is a web app created to provide a platform for developers to connect. Users log in with their GitHub account to find people to collaborate on their projects or join others to help them.
 
-Was created to provide a platform for **developers to connect**. Here you can find people to **collaborate** on your project or join others to help them.
 
 ## Screenshots
 
@@ -17,7 +18,7 @@ Was created to provide a platform for **developers to connect**. Here you can fi
 1. Clone this repo and enter!
 
    ```bash
-   git clone https://github.com/llere-alt/elit.git
+   git clone https://github.com/kasia-js/elit.git
    cd elit/
    ```
 
@@ -44,6 +45,7 @@ Was created to provide a platform for **developers to connect**. Here you can fi
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/advanced/usage-with-react-router)
 - [React Router](https://reactrouter.com/)
+- [React-Select](https://react-select.com/)
 - [Apollo GraphQL](https://www.apollographql.com/docs/)
 - [Sequelize](https://sequelize.org/)
 - [PostgreSQL](https://www.postgresql.org/)
@@ -51,6 +53,7 @@ Was created to provide a platform for **developers to connect**. Here you can fi
   - [Formik](https://formik.org/)
   - [Framer Motion](https://www.framer.com/motion/)
   - [Material Ui](https://material-ui.com/)
+  - [Bootstrap](https://getbootstrap.com/)
   - [Moment](https://momentjs.com/)
   - [Dotenv](https://www.npmjs.com/package/dotenv)
   - And MORE! check our package.json ;)

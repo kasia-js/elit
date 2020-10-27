@@ -7,6 +7,10 @@
 Elit is a web app created to provide a platform for developers to `connect.collaborate.create()`
 Users log in with their GitHub account to find people to collaborate on their projects or join others to help them.
 
+## Movie
+<p align="center">
+  <img src="/client/src/assets/images/motion.gif" />
+</p>
 
 ## Screenshots
 

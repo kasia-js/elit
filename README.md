@@ -4,7 +4,7 @@
   <img src="/client/src/assets/images/elitLogo.png" />   
 </p>
 
-Elit is a web app created to provide a platform for developers to `connect.collaborate.create()`
+Elit is a web app created to provide a platform for developers to `connect.create.collaborate().`
 Users log in with their GitHub account to find people to collaborate on their projects or join others to help them.
 
 ## Movie
